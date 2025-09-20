@@ -91,5 +91,4 @@ Each of the following questions is designed to simulate real operational analysi
 ## Author
 
 This project was developed as part of a personal portfolio, combining practical SQL challenges and business reasoning tailored to the fintech industry with real case scenarios relevant to fintechs such as Revolut, Nubank, Wave, Wise, and so on.
-"""
 
